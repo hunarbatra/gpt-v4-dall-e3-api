@@ -2,3 +2,5 @@ user_data/
 out.png
 experiments/
 __pycache__/
+api/node_modules/
+api/package-lock.json
