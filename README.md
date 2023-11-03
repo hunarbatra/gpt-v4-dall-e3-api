@@ -9,7 +9,7 @@ node api.js
 
 # Running GPT-4V over a test sample
 ```
-python3 main.y --exp_dir={exp_subdirectory_name}
+python3 main.py --exp_dir={exp_subdirectory_name}
 ```
 
 # To use DALL-E 3:
